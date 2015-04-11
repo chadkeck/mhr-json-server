@@ -1,0 +1,23 @@
+{
+  "name": "mhr-json-server",
+  "version": "1.0.0",
+  "description": "RESTful JSON server to query Team Cymru's Malware Hash Registry",
+  "main": "app.js",
+  "dependencies": {
+    "express": "~4.12.3",
+    "malware-hash-registry": "~1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/chadkeck/mhr-json-server",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chadkeck/mhr-json-server.git"
+  },
+  "author": {
+    "name": "Chad Bibler",
+    "url": "https://chadbibler.com"
+  },
+  "license": "MIT"
+}
