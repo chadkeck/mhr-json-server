@@ -3,6 +3,7 @@ RESTful JSON server to query Team Cymru's [Malware Hash Registry](https://www.te
 
 [![Twitter: @chadkeck](https://img.shields.io/badge/contact-@chadkeck-blue.svg?style=flat)](https://twitter.com/chadkeck)
 [![License](http://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/chadkeck/mhr-json-server/blob/master/LICENSE)
+[![Code Climate](https://codeclimate.com/github/chadkeck/mhr-json-server/badges/gpa.svg)](https://codeclimate.com/github/chadkeck/mhr-json-server)
 
 **Note:** The Malware Hash Registry is free for non-commercial use only.
 
