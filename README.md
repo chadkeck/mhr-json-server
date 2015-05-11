@@ -18,7 +18,7 @@ $ sudo docker build --rm -t chadkeck/mhr-json-server .
 ### Running a server instance
 
 ```sh
-$ sudo docker run --rm -p 3000:80 chadkeck/mhr-json-server
+$ sudo docker run --rm -p 3000:3000 chadkeck/mhr-json-server
 ```
 
 ### Querying the service
